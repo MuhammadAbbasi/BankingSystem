@@ -1,6 +1,9 @@
-Usman
-26001001
-42201
-031923123
-A-32
-Savings
+
+Loan Granted!
+90
+When items worth 900 were allocated to bank
+
+2018-12-03 23:51:10
+Balance After Loan Granted:
+90
+90
